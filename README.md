@@ -50,7 +50,7 @@
 ## تنظیمات Bios
 تنظیماتی که در ادامه مشاهده‌ می‌کنید به شکل عمومی برای تمامی مادربرد‌ها قابل انجام است. اگر گزینه‌ای در منوی Bios کامپیوتر شما نیست می‌توانید آن را نادیده بگیرید و گزینه‌های موجود را تنظیم نمایید.
 
-Disable  
+## Disable  
 Fast Boot  
 Secure Boot  
 Serial/COM Port  
@@ -62,7 +62,7 @@ Intel SGX
 Intel Platform Trust  
 CFG Lock (MSR 0xE2 write protection)(This must be off, if you can't find the option then enable AppleCpuPmCfgLock under Kernel -> Quirks. Your hack will not boot with CFG-Lock enabled)
 
-Enable  
+## Enable  
 VT-x  
 Above 4G decoding  
 Hyper-Threading  

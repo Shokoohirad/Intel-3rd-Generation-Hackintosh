@@ -3,7 +3,7 @@
 ![Desktop](https://raw.githubusercontent.com/OneArtist/Intel-3rd-Generation-Hackintosh/main/About_This_Mac.jpg)
 
 ## پروژه‌ی هکینتاش
-این پروژه بر اساس نسل سوم پردازنده‌های اینتل (Ivy Bridge) انجام شده است و روی اکثر کامیپوترهایی با مشخصات مشابه نصب خواهد شد.
+این پروژه بر اساس نسل سوم پردازنده‌های اینتل (Ivy Bridge) انجام شده است و روی اکثر کامپیوترهایی با مشخصات مشابه نصب خواهد شد.
 
 ## مشخصات سخت‌افزاری
 *   CPU : Intel i5 3470
